@@ -1,3 +1,4 @@
+# Task-manager
 A simple command-line Task Manager built using Node.js.  
 Supports adding, listing, updating, completing, and removing tasks.  
 Tasks are stored in `tasks.json`.
